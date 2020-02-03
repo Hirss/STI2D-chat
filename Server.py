@@ -11,7 +11,7 @@ class Server:
     alreadyBanned = Error.Error("This ip already banned!")
     notBanned = Error.Error("This ip has not banned!")
 
-    def __init__(self, ip, port=9090, max_users=10):
+    def __init__(self, ip, port=9090, max_users=20):
         self.console = False
         self.HOST = ip
         self.PORT = port
