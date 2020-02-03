@@ -1,0 +1,23 @@
+---TUNCA CHAT---
+
+Start Server.py
+
+Write IP (Windows + R -> ipconfig take IP V4)
+
+---------------
+
+Start Client.py 
+
+Write IP in chatbar
+
+---OPTIONS---
+Commands:
+   /setnick (pseudo)
+   /help
+   /list
+   /whois (pseudo)
+
+Admin commands:
+   /admin (nick)
+   /ban (ip)
+   /unban (ip)
