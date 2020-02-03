@@ -1,14 +1,16 @@
----TUNCA CHAT---
+---STI2DA CHAT---
 
 Start Server.py
 
-Write IP (Windows + R -> ipconfig take IP V4)
-
+Write IP (Windows + R -> cmd -> ipconfig take IP V4)
+Ecrit l'ip en cliquant sur Windows puis R ensuite ecrivez cmd et cherchez dans cmd "ipconfig" et prendre l'ip de l'adresse ip v4
 ---------------
 
 Start Client.py 
+Lancer Client.Py
 
 Write IP in chatbar
+Ecrit l'ip V4 dans la barre de chat pour ecrire
 
 ---OPTIONS---
 Commands:
