@@ -72,7 +72,7 @@ class Server:
 
 
 if __name__ == "__main__":
-    print("Local-Chat v0.2.1 Server")
+    print("STI2DA-Chat")
     HOST = input("Bind ip: ")
     server = Server(HOST)
     server.set_console(HOST)
