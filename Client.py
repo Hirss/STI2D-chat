@@ -36,7 +36,7 @@ def setup(ip):
 
 
 root = Tk()
-root.title("Tunca-Chat")
+root.title("STI2DA-Chat")
 root.geometry("600x500")
 root.resizable(False, False)
 
